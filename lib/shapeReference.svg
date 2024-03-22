@@ -1,0 +1,11 @@
+<svg height="220" width="500" xmlns="http://www.w3.org/2000/svg">
+    <!-- triangle done with all points-->
+    <polygon points="150, 18 244, 182 56, 182" fill = "blue" style ="stroke:red;stroke-width:3" />
+          <text x="150" y="140" font-size="50" text-anchor="middle" fill="lime">SVG</text>
+    <!-- square -->
+    <rect x="10" y="10" width="180" height="180" stroke="black" fill="lime" stroke-width="5"/>
+        <text x="100" y="125" font-size="70" text-anchor="middle" fill="blue">SVG</text>
+    <!-- circle -->
+    <circle cx="110" cy="110" r="100" stroke="black" fill="lime" stroke-width="5"/>
+        <text x="112" y="133" font-size="70" text-anchor="middle" fill="blue">SVG</text>
+</svg>
